@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: a1fcd8c8b105c8841acfb029fed73f63
+  productGUID: 5a3d8476a01f4ce469090bc34544ea81
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Rosalia2D
+  productName: Jogo Mobile 2D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -676,10 +676,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: d9826338-e381-4387-a44d-5eb6b7323296
+  cloudProjectId: 72081463-c559-49b2-80ce-868116e431dc
   framebufferDepthMemorylessMode: 0
-  projectName: Rosalia2D 2026-10-16_19-33-55
-  organizationId: singervillem
+  projectName: Jogo Mobile 2D
+  organizationId: trillobit3s
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
